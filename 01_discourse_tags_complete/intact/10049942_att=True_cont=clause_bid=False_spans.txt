@@ -1,0 +1,276 @@
+	Unnamed: 0	SentenceId	Clause Text	Codes	ExperimentValues	ExternalRef	Paragraph	Headings	FloatingBox?	Discourse Type	Offset_Begin	Offset_End	Discourse Label	fig_spans
+0	0	s1	"NKp44 , A Triggering Receptor Involved in Tumor Cell Lysis by Activated Human Natural Killer Cells , Is a Novel Member of the Immunoglobulin Superfamily"	[]			article-title0		FALSE	implication	126	276	method	
+1	1	s2	Surface receptors involved in natural killer ( NK ) cell triggering during the process of tumor cell lysis have recently been identified .	[]			p5		FALSE	result	1055	1190	method	
+2	2	s3	"Of these receptors , NKp44 is selectively expressed by IL-2 - activated NK cells and may contribute to the increased efficiency of activated NK cells"	[]			p5		FALSE	fact	1191	1338	hypothesis	
+3	3	s3	to mediate tumor cell lysis .	[]			p5		FALSE	fact	1339	1367	fact	
+4	4	s4	Here we describe the molecular cloning of NKp44 .	[]			p5		FALSE	method	1368	1416	method	
+5	5	s5	Analysis of the cloned cDNA indicated	[]			p5		FALSE	method	1417	1454	method	
+6	6	s5	that NKp44 is a novel transmembrane glycoprotein belonging to the Immunoglobulin superfamily characterized by a single extracellular V-type domain .	[]			p5		FALSE	result	1455	1602	method	
+7	7	s6	The charged amino acid lysine in the transmembrane region may be involved in the association of NKp44 with the signal transducing molecule killer	[]			p5		FALSE	hypothesis	1603	1748	fact	
+8	8	s6	activating receptor-associated polypeptide ( KARAP ) /DAP12 .	[]			p5		FALSE	hypothesis	1749	1806	result	
+9	9	s7	These molecules were found	[]			p5		FALSE	result	1807	1833	method	
+10	10	s7	to be crucial for the surface expression of NKp44 .	[]			p5		FALSE	result	1834	1884	goal	
+11	11	s8	"In agreement with data of NKp44 surface expression , the NKp44 transcripts were strictly confined to activated NK cells and to a minor subset of TCR-gamma/delta+ T lymphocytes ."	[]			p5		FALSE	result	1885	2060	fact	
+12	12	s9	"Unlike genes coding for other receptors involved in NK cell triggering or inhibition , the NKp44 gene is on human chromosome 6 ."	[]			p5		FALSE	result	2061	2187	result	
+13	13	s10	The mechanism	[]			p6		FALSE	problem	2282	2295	none	
+14	14	s10	by which NK cells lyse certain virally infected or tumor cells while sparing normal cells has recently been elucidated .	[]			p6		FALSE	problem	2296	2415	none	
+15	15	s11	They express MHC class I-specific inhibitory receptors ( killer inhibitory receptors [ KIRs ]	[]			p6		FALSE	result	2416	2506	result	
+16	16	s11	1 that block NK cell function when interacting with their ligand ( s ) ( exLink ) .	[exLink]			p6		FALSE	result	2507	2579	result	
+17	17	s12	"Thus , the expression of inadequate amounts of MHC molecules at the cell surface renders"	[]			p6		FALSE	implication	2580	2667	result	
+18	18	s12	cells susceptible to NK cell lysis .	[]			p6		FALSE	implication	2668	2703	method	
+19	19	s13	"On the other hand , the molecular mechanism ( s ) responsible for NK cell triggering remains largely unknown ."	[]			p6		FALSE	problem	2704	2809	result	
+20	20	s14	Although the activating counterparts of KIRs have been identified ( killer activating receptors [ KAR ] )	[]			p6		FALSE	result	2810	2911	method	
+21	21	s14	their contribution to NK cell triggering is clearly limited to the case of MHC class I+ target cells .	[]			p6		FALSE	result	2912	3014	result	
+22	22	s15	"However , a major function of NK cells is"	[]			p6		FALSE	result	3015	3055	result	
+23	23	s15	"to kill cells that do not express MHC class I molecules , thus implying a major role in NK cell triggering of receptors recognizing non-MHC ligands ."	[]			p6		FALSE	implication	3056	3203	result	
+24	24	s16	"In this context , we have recently described two novel , highly NK-specific , receptor molecules ( termed NKp46 and NKp44 )"	[]			p6		FALSE	result	3204	3322	result	
+25	25	s16	that are involved in NK cell triggering during the process of natural cytotoxicity .	[]			p6		FALSE	fact	3323	3406	fact	
+26	26	s17	Whereas NKp46 is expressed by all resting and activated NK cells ( exLink )	[exLink]			p6		FALSE	result	3407	3475	result	
+27	27	s17	NKp44 is selectively expressed by NK cells only upon culture in IL-2 ( exLink ) .	[exLink]			p6		FALSE	result	3476	3550	result	
+28	28	s18	"In this respect , the de novo expression of NKp44 may play a relevant role in the marked increase of cytolytic activity displayed by the so-called LAK cells ( exLink )"	[exLink]			p6		FALSE	hypothesis	3551	3710	fact	
+29	29	s18	"that have been used in the adoptive immunotherapy of cancer ( exLink , exLink ) ."	[exLink]			p6		FALSE	hypothesis	3711	3778	result	
+30	30	s19	"Molecular cloning of NKp46 ( exLink ) has recently revealed a novel member of the Ig superfamily ( Ig-SF ) associated to CD3zeta , a signal transducing molecule containing immunoreceptor tyrosine-based activation motifs ( ITAM ) ."	[exLink]			p6		FALSE	result	3779	3996	result	
+31	31	s20	"In this study , we report the molecular cloning of NKp44 ."	[]			p6		FALSE	method	3997	4053	method	
+32	32	s21	NKp44 also represents a novel member of the Ig-SF which	[]			p6		FALSE	fact	4054	4109	fact	
+33	33	s21	differs from NKp46 in that it is associated with the recently identified signal transducing molecule killer activating receptor-associated polypeptide ( KARAP ) /DAP12 ( exLink ) .	[exLink]			p6		FALSE	result	4110	4279	result	
+34	34	s22	"Moreover , the gene encoding NKp44 is located on human chromosome 6 whereas NKp46 and"	[]			p6		FALSE	result	4280	4364	result	
+35	35	s22	"most of the NK receptors belonging to the Ig-SF are encoded by genes on chromosome 19 ( exLink , exLink ) ."	[exLink]			p6		FALSE	result	4365	4458	result	
+36	36	s23	Materials and Methods	[header-0]			title7	Materials and Methods	FALSE	none	4459	4480	none	
+37	37	s24	cDNA Library Construction .	[header-1]			title8	Materials and Methods	FALSE	none	4481	4507	none	
+38	38	s25	The expression cDNA library was prepared in	[]			p9	Materials and Methods	FALSE	method	4508	4551	fact	
+39	39	s25	"VR1012 plasmid ( Vical Inc. ) using RNA extracted from IL-2-activated polyclonal NK cells as described ( exLink , exLink ) , and was divided into 10 fractions of ~105 clones each ."	[exLink]			p9	Materials and Methods	FALSE	method	4552	4715	method	
+40	40	s26	Library Screening by cDNA Expression in COS-7 Cells .	[header-1]			title10	Materials and Methods	FALSE	method	4716	4768	none	
+41	41	s27	The library screening procedure was performed	[]			p11	Materials and Methods	FALSE	method	4769	4814	none	
+42	42	s27	"as described ( exLink , exLink ) ."	[exLink]			p11	Materials and Methods	FALSE	method	4815	4835	result	
+43	43	s28	"Briefly , cDNA library was transiently transfected in COS-7 cells ;"	[]			p11	Materials and Methods	FALSE	method	4836	4901	result	
+44	44	s28	selection of positive pools was performed by immunocytochemical staining using the specific anti-NKp44 mAb Z231 ( exLink ) and sib selection .	[exLink]			p11	Materials and Methods	FALSE	method	4902	5036	goal	
+45	45	s29	DNA Sequencing .	[header-1]			title12	Materials and Methods	FALSE	none	5037	5052	none	
+46	46	s30	DNA sequencing was performed	[]			p13	Materials and Methods	FALSE	method	5053	5081	method	
+47	47	s30	using d-Rhodamine Terminator Cycle Sequencing Kit and a 377 Applied Biosystems Automatic Sequencer ( Perkin Elmer-Applied Biosystems ) .	[]			p13	Materials and Methods	FALSE	method	5082	5215	goal	
+48	48	s31	Reverse Transcriptase PCR ( RT-PCR ) Amplification of cDNAs Encoding for NKp44 and DAP12 .	[header-1]			title14	Materials and Methods	FALSE	method	5216	5303	method	
+49	49	s32	Total RNA extracted	[]			p15	Materials and Methods	FALSE	method	5304	5323	method	
+50	50	s32	using RNAzol ( Cinna/Biotecx ) from polyclonal NK and T cell populations and clones and from different hemopoietic cell lines ( Table I ) was reverse transcribed using oligo dT priming .	[]			p15	Materials and Methods	FALSE	method	5324	5505	method	
+51	51	s33	Primers used for cDNA amplification of complete NKp44 open reading frame ( ORF ) ( 857 bp ) were the following : 5 ' CCA CGA GCG CAC AGG AAA AGG ( NKp44 ORF UP ) and 5 ' TCA CAA AGT GTG TTC ATC ATC ATC ATC GCT TAT CTT AGT CC ( NKp44 ORF DOWN ) .	[]			p15	Materials and Methods	FALSE	method	5506	5739	method	
+52	52	s34	"Amplification was performed for 30 cycles ( 30 s at 94degreesC , 30 s at 65degreesC , and 30 s at 72degreesC ) , followed by a 7-min incubation at 72degreesC ,"	[]			p15	Materials and Methods	FALSE	method	5740	5893	result	
+53	53	s34	utilizing TAQ-GOLD ( Perkin Elmer-Applied Biosystems ) after preactivation for 15 min at 95degreesC .	[]			p15	Materials and Methods	FALSE	method	5894	5992	result	
+54	54	s35	The cDNA obtained from a polyclonal NK cell population ( NKp44 ORF ) was subcloned in pcDNA3.1/V5/His-TOPO	[]			p15	Materials and Methods	FALSE	method	5993	6097	result	
+55	55	s36	vector ( Invitrogen ) and sequenced .	[]			p15	Materials and Methods	FALSE	method	6098	6132	result	
+56	56	s37	Primers used for cDNA amplification of complete DAP12 ORF ( exLink ) ( 353 bp ) were the following : 5 ' TCA TGG GGG GAC TTG AAC C ( DAP12 UP ) and 5 ' GAT TCG GGC TCA TTT GTA ATA C ( DAP12 DOWN ) .	[exLink]			p15	Materials and Methods	FALSE	method	6133	6315	method	
+57	57	s38	"Amplification was performed for 30 cycles ( 30 s at 94degreesC , 30 s at 60degreesC , and 30 s at 72degreesC ) , followed by a 7-min incubation at 72degreesC ."	[]			p15	Materials and Methods	FALSE	method	6316	6469	result	
+58	58	s39	The amplification product obtained from the NK cell clone K17 was subcloned in pCR3.1 vector ( Invitrogen ) and sequenced .	[]			p15	Materials and Methods	FALSE	method	6470	6590	method	
+59	59	s40	Polyclonal or clonal NK cell populations and clones were obtained	[]			p15	Materials and Methods	FALSE	method	6591	6656	method	
+60	60	s40	"as previously described ( exLink , exLink , exLink ) ."	[exLink]			p15	Materials and Methods	FALSE	method	6657	6692	result	
+61	61	s41	RT-PCR analysis of NKp44 and DAP12 mRNA on a panel of different cell populations of lymphoid origin and hemopoietic human cell lines was performed	[]			p16	Materials and Methods	FALSE	method	6693	6839	method	
+62	62	s41	"utilizing a semiquantitative PCR technique ( exLink , exLink ) ."	[exLink]			p16	Materials and Methods	FALSE	method	6840	6892	result	
+63	63	s42	Transient Transfections .	[header-1]			title17	Materials and Methods	FALSE	none	6893	6917	result	
+64	64	s43	COS-7 cells ( 5 x 105 per plate ) were cotransfected with VR1012-15C and pCR3.1-DAP12 or with pcDNA3.1/V5/His-TOPO	[]			p18	Materials and Methods	FALSE	method	6918	7030	result	
+65	65	s44	NKp44 ORF ( pcDNA3.1-NKp44	[]			p18	Materials and Methods	FALSE	method	7031	7056	goal	
+66	66	s45	ORF ) and pCR3.1-DAP12	[]			p18	Materials and Methods	FALSE	method	7057	7078	result	
+67	67	s46	constructs by the DEAE-dextran method as described ( exLink ) .	[exLink]			p18	Materials and Methods	FALSE	method	7079	7135	result	
+68	68	s47	"Cells were stained with different anti-NKp44 mAbs ( Z231 , IgG1 ; AZ140 , IgG1 ; KS38 , IgM ) followed by a phycoerythrin-conjugated goat antibody to mouse IgG1 or IgM and analyzed by flow cytometry using a FACSort ( R ) ( Becton Dickinson ) ."	[]			p18	Materials and Methods	FALSE	method	7136	7366	result	
+69	69	s48	Expression of NKp44 and DAP12 mRNA in Transfected COS-7 Cells by RT-PCR and by Dot Blot Analysis .	[header-1]			title19	Materials and Methods	FALSE	method	7367	7464	method	
+70	70	s49	"Total RNA was extracted from COS-7 cells ( untransfected , transfected with pcDNA3.1-NKp44"	[]			p20	Materials and Methods	FALSE	method	7465	7553	goal	
+71	71	s50	"ORF , or co-transfected with pcDNA3.1-"	[]			p20	Materials and Methods	FALSE	method	7554	7591	result	
+72	72	s51	NKp44 ORF and pCR3.1-DAP12 )	[]			p20	Materials and Methods	FALSE	method	7592	7619	none	
+73	73	s52	utilizing CsCl gradient .	[]			p20	Materials and Methods	FALSE	method	7620	7644	result	
+74	74	s53	Poly A+ fraction was purified from total RNA	[]			p20	Materials and Methods	FALSE	method	7645	7689	result	
+75	75	s53	"using oligo dT Dynabeads ( Dynal , Norway ) following the manufacturer 's instructions ."	[]			p20	Materials and Methods	FALSE	method	7690	7773	result	
+76	76	s54	cDNA was obtained by RT reaction	[]			p20	Materials and Methods	FALSE	method	7774	7806	result	
+77	77	s54	using oligo dT priming starting from 200 ng poly A+ .	[]			p20	Materials and Methods	FALSE	method	7807	7859	method	
+78	78	s55	PCR amplification of NKp44 ORF and DAP12 ORF was carried out with the primers described above for 25 cycles	[]			p20	Materials and Methods	FALSE	method	7860	7967	method	
+79	79	s55	"each consisting of 30 s at 95degreesC , 30 s at 60degreesC , and 30 s at 72degreesC ."	[]			p20	Materials and Methods	FALSE	method	7968	8051	result	
+80	80	s56	A 228-bp beta-actin fragment was amplified as control	[]			p20	Materials and Methods	FALSE	method	8052	8105	goal	
+81	81	s56	using the following primers : 5 ' ACT CCA TCA TGA AGT GTG ACG ( beta-actin UP ) and 5 ' CAT ACT CCT GCT TGC TGA TCC ( beta-actin DOWN ) .	[]			p20	Materials and Methods	FALSE	method	8106	8235	method	
+82	82	s57	PCR amplification was carried out for 25 cycles	[]			p20	Materials and Methods	FALSE	method	8236	8283	result	
+83	83	s57	"each consisting of 30 s at 95degreesC , 30 s at 58degreesC , and 30 s at 72degreesC ."	[]			p20	Materials and Methods	FALSE	method	8284	8367	result	
+84	84	s58	As a negative control we included for each set of primers poly A+ without RT reaction step .	[]			p20	Materials and Methods	FALSE	method	8368	8459	result	
+85	85	s59	PCR products were run on a 1.5 % agarose gel and stained with ethidium bromide .	[]			p20	Materials and Methods	FALSE	method	8460	8538	result	
+86	86	s60	"For the dot blot analysis , 200 ng poly A+ were denatured in 60 mul 20x SSC and 40 mul 37 % formaldehyde at 60degreesC for 15 min and spotted onto a positively charged nylon membrane ( GeneScreen plus ; Dupont-NEN ) in 15x SSC using a microfiltration apparatus ( Bio-dot ; BioRad ) ."	[]			p21	Materials and Methods	FALSE	method	8539	8813	result	
+87	87	s61	The dot blot was hybridized with the following probes :	[]			p21	Materials and Methods	FALSE	method	8814	8868	method	
+88	88	s61	"857-bp NKp44 ORF fragment , 353-bp DAP12 fragment , and 228-bp beta-actin fragment ."	[]			p21	Materials and Methods	FALSE	method	8869	8950	method	
+89	89	s62	cDNA probes were 32P labeled by random priming ( exLink ) .	[exLink]			p21	Materials and Methods	FALSE	method	8951	9003	result	
+90	90	s63	Blot was washed at high stringency conditions	[]			p21	Materials and Methods	FALSE	method	9004	9049	result	
+91	91	s63	as described ( exLink ) .	[exLink]			p21	Materials and Methods	FALSE	method	9050	9067	result	
+92	92	s64	Biochemical Characterization of the NKp44 Molecule .	[header-1]			title22	Materials and Methods	FALSE	none	9068	9119	none	
+93	93	s65	"Cyanogen bromide Sepharose ( Pharmacia , Sweden ) -coupled"	[]			p23	Materials and Methods	FALSE	method	9120	9175	result	
+94	94	s65	"Z231 mAb was used to immunoprecipitate NKp44 molecules from 1 % NP-40 lysates of 125I surface labeled cells ( DuPont-NEN ) as previously described ( exLink , exLink ) ."	[exLink]			p23	Materials and Methods	FALSE	method	9176	9327	method	
+95	95	s66	Immunoprecipitates were analyzed by discontinuous SDS-PAGE under	[]			p23	Materials and Methods	FALSE	method	9328	9392	result	
+96	96	s66	reducing conditions ( 5 % 2-mercaptoethanol ) .	[]			p23	Materials and Methods	FALSE	method	9393	9436	result	
+97	97	s67	Biochemical Characterization of the NKp44-associated KARAP/ DAP12 Molecules .	[header-1]			title24	Materials and Methods	FALSE	none	9437	9513	method	
+98	98	s68	"NK cells were treated with sodium pervanadate ( exLink ) or with KS38 ( IgM , anti-NKp44 ) mAb ( 3 x 106 , 5 mug , 30 min , 4degreesC ) followed by affinity purified F ( ab ' ) 2 rabbit anti-mouse IgM ( 1.5 mug , 1 min , 37degreesC , ZYMED ) ."	[exLink]			p25	Materials and Methods	FALSE	method	9514	9731	method	
+99	99	s69	Untreated and treated cells were lysed in 1 % digitonin and immunoprecipitated with various mAbs	[]			p25	Materials and Methods	FALSE	method	9732	9827	method	
+100	100	s69	as previously described ( exLink ) .	[exLink]			p25	Materials and Methods	FALSE	method	9828	9856	result	
+101	101	s70	"Samples were analyzed in SDS-PAGE , transferred to Immobilon P ( Millipore Corp. ) and the membranes probed with PY20-HRPO ( anti-phosphotyrosine mAb ; Transduction Laboratories ) or with anti-FcepsilonRIgamma rabbit antiserum ( provided by E. Vivier , INSERM , Marseille , France ) or anti-DAP12 rabbit antiserum ( SI-28 ) followed by donkey anti-rabbit HRPO ( Amersham , UK ) ."	[]			p25	Materials and Methods	FALSE	method	9857	10219	result	
+102	102	s71	The Renaissance Chemiluminescence Kit ( Dupont-NEN ) was used for detection .	[]			p25	Materials and Methods	FALSE	method	10220	10294	result	
+103	103	s72	"SI-28 antiserum was obtained as previously described ( exLink ) ,"	[exLink]			p25	Materials and Methods	FALSE	method	10295	10353	result	
+104	104	s72	using the COOH-terminal peptide ( SDVYSDLNTQRPYYK ) of DAP12 molecule ( exLink ) .	[exLink]			p25	Materials and Methods	FALSE	method	10354	10427	method	
+105	105	s73	Analysis of NKp44 Transcript Expression by Northern Blotting .	[header-1]			title26	Materials and Methods	FALSE	method	10428	10489	goal	
+106	106	s74	"5 mug of total RNA prepared from LCL721.221 and Jurkat cell lines , NK cell clones and polyclonal NK cell populations using CsCl gradient was size-fractionated by"	[]			p27	Materials and Methods	FALSE	method	10490	10651	hypothesis	
+107	107	s74	denaturing agarose gel electrophoresis and transferred onto a positively charged nylon membrane ( GeneScreen plus ; DuPont-NEN ) .	[]			p27	Materials and Methods	FALSE	method	10652	10778	method	
+108	108	s75	Northern blot was performed under high stringency conditions	[]			p27	Materials and Methods	FALSE	method	10779	10839	method	
+109	109	s75	as described ( exLink ) .	[exLink]			p27	Materials and Methods	FALSE	method	10840	10857	result	
+110	110	s76	The NKp44 cDNA probe ( 857-bp fragment NKp44 ORF ) and the 228-bp beta-actin probe were 32P labeled by random priming ( exLink ) .	[exLink]			p27	Materials and Methods	FALSE	method	10858	10979	method	
+111	111	s77	Southern Blotting and Chromosomal Localization of NKp44 Gene .	[header-1]			title28	Materials and Methods	FALSE	method	10980	11041	none	
+112	112	s78	"10 mug of genomic DNA extracted from human , monkey , and mouse was digested with EcoRI , HindIII , or SacI restriction enzymes ."	[]			p29	Materials and Methods	FALSE	method	11042	11166	method	
+113	113	s79	"DNA was size-fractionated by electrophoresis on a 0.8 % agarose gel , transferred onto a positively charged nylon membrane ( DuPont-NEN ) , hybridized"	[]			p29	Materials and Methods	FALSE	method	11167	11312	method	
+114	114	s79	"as described ( exLink , exLink ) , and washed at low stringency conditions ( 0.5x SSC at 65degreesC ) ."	[exLink]			p29	Materials and Methods	FALSE	method	11313	11400	result	
+115	115	s80	The Somatic Cell Hybrid blot ( BIOS Laboratories ) was used	[]			p30	Materials and Methods	FALSE	method	11401	11458	goal	
+116	116	s80	to assign NKp44 gene to a specific chromosome by Southern blotting .	[]			p30	Materials and Methods	FALSE	method	11459	11526	method	
+117	117	s81	The NKp44 ORF probe was used for high stringency hybridization	[]			p30	Materials and Methods	FALSE	method	11527	11589	method	
+118	118	s81	washes were performed as previously described ( exLink ) .	[exLink]			p30	Materials and Methods	FALSE	method	11590	11641	method	
+119	119	s82	Chromosomal assignment was further confirmed by PCR on DNA from human-hamster monochromosomal hybrids ( BIOS Laboratories )	[]			p30	Materials and Methods	FALSE	method	11642	11763	result	
+120	120	s82	utilizing the following primers : 5 ' CCA CGA GCG CAC AGG AAA AGG ( NKp44 ORF UP ) and 5 ' GTA GAT TCT ACA CCA GTA ATG ( 15C-REV2 ) .	[]			p30	Materials and Methods	FALSE	method	11764	11889	method	
+121	121	s83	"These primers allowed us to discriminate , by the size of the amplified products , between genomic and cDNA amplified sequences ."	[]			p30	Materials and Methods	FALSE	method	11890	12016	method	
+122	122	s84	Results	[header-0]			title31	Results	FALSE	none	12017	12024	none	
+123	123	s85	Molecular Cloning of the cDNA Encoding the NKp44 Receptor .	[header-1]			title32	Results	FALSE	none	12025	12083	none	f1a
+124	124	s86	The availability of different mAbs specific for NKp44 molecules allowed	[]			p33	Results	FALSE	method	12084	12155	none	f1a
+125	125	s86	us to attempt the isolation of the cDNA encoding NKp44 by an expression cloning strategy .	[]			p33	Results	FALSE	method	12156	12245	goal	f1a
+126	126	s87	"To this end , a cDNA library was prepared from human NK cells and divided into 10 fractions of ~105 independent recombinant clones ."	[]			p33	Results	FALSE	method	12246	12376	result	f1a
+127	127	s88	Individual fractions were transiently transfected in COS-7 cells and analyzed by immunocytochemical staining	[]			p33	Results	FALSE	method	12377	12485	method	f1a
+128	128	s88	using the prototype NKp44-specific mAb Z231 ( exLink ) .	[exLink]			p33	Results	FALSE	method	12486	12534	goal	f1a
+129	129	s89	The first screening yielded 2 ( out of 10 ) positive fractions .	[]			p33	Results	FALSE	result	12535	12596	result	f1a
+130	130	s90	"By subsequent screening of progressively smaller cDNA library pools , we obtained positive fractions ,"	[]			p33	Results	FALSE	method	12597	12697	result	f1a
+131	131	s90	each containing ~3 x 103 recombinants .	[]			p33	Results	FALSE	method	12698	12736	result	f1a
+132	132	s91	Further attempts aimed at	[]			p33	Results	FALSE	result	12737	12762	result	f1a
+133	133	s91	"obtaining positive pools of smaller size ( e.g. , 500 recombinants/pool ) were unsuccessful ."	[]			p33	Results	FALSE	result	12763	12852	result	f1a
+134	134	s92	"However , cotransfection of pairs of these small pools allowed"	[]			p33	Results	FALSE	result	12853	12914	result	f1a
+135	135	s92	us to identify two pools ( termed C67 and C68 ) yielding Z231+ COS-7 cells .	[]			p33	Results	FALSE	result	12915	12988	result	f1a
+136	136	s93	"Since individual transfection of C67 and C68 pools gave negative results , a possible explanation was"	[]			p33	Results	FALSE	result	12989	13089	result	f1a
+137	137	s93	that NKp44 expression at the surface of COS-7 cells required cotransfection with other molecule ( s ) .	[]			p33	Results	FALSE	implication	13090	13189	result	f1a
+138	138	s94	"On the basis of this assumption , the C67 fraction was transfected with progressively smaller pools of C68 ."	[]			p33	Results	FALSE	method	13190	13296	result	f1a
+139	139	s95	A single clone ( clone 15C ) was isolated	[]			p33	Results	FALSE	method	13297	13336	method	f1a
+140	140	s95	that could direct surface expression of the NKp44 protein when cotransfected with the C67 fraction .	[]			p33	Results	FALSE	method	13337	13436	method	f1a
+141	141	s96	Since we recently demonstrated that NKp44 is associated with KARAP/DAP12 ITAM-bearing molecules ( exLink )	[exLink]			p33	Results	FALSE	fact	13437	13536	method	f1a
+142	142	s96	we analyzed whether these molecules were required for NKp44 expression at the cell surface .	[]			p33	Results	FALSE	goal	13537	13629	fact	f1a
+143	143	s97	"Indeed , cotransfection of clone 15C and DAP12 cDNAs resulted in surface expression of NKp44 ( not shown ) ."	[]			p33	Results	FALSE	result	13630	13734	method	f1a
+144	144	s98	This clearly indicated	[]			p33	Results	FALSE	implication	13735	13757	result	f1a
+145	145	s98	that clone 15C encoded the NKp44 molecule .	[]			p33	Results	FALSE	implication	13758	13800	method	f1a
+146	146	s99	"Importantly , in agreement with these results , DAP12 cDNA could be amplified by PCR from the C67 library fraction ,"	[]			p33	Results	FALSE	result	13801	13914	method	f1a
+147	147	s99	"thus confirming that , at least in COS-7 cells , DAP12 is required for the surface expression of NKp44 ."	[]			p33	Results	FALSE	implication	13915	14016	method	f1a
+148	148	s100	"Next , COS-7 cells were either cotransfected with NKp44 ORF and DAP12 cDNAs or transfected separately with the individual constructs and stained with different anti-NKp44 mAbs ( including Z231 , AZ140 , and KS38 ) ."	[]			p34	Results	FALSE	method	14017	14226	method	f1a
+149	149	s101	Fig. 1 A shows	[inLink]	f1a		p34	Results	FALSE	result	14227	14241	result	f1b|f1a
+150	150	s101	that COS-7 cells were efficiently stained by the anti-NKp44 mAbs only when cotransfected with both NKp44 ORF and DAP12 cDNAs .	[]			p34	Results	FALSE	result	14242	14367	method	f1b|f1a
+151	151	s102	"On the contrary , COS-7 cells transfected"	[]			p34	Results	FALSE	result	14368	14408	result	f1b|f1a
+152	152	s102	with NKp44 ORF cDNA alone either failed to express NKp44 or ( in some experiments ) displayed a low level of NKp44 surface expression .	[]			p34	Results	FALSE	result	14409	14541	result	f1b|f1a
+153	153	s103	As illustrated in Fig. 1 B	[inLink]	f1b		p34	Results	FALSE	method	14542	14568	result	f1b|f1c
+154	154	s103	the expression of NKp44 and DAP12 mRNA in COS-7 cell transfectants was checked both by RT-PCR and by dot blot analysis .	[]			p34	Results	FALSE	method	14569	14689	method	f1b|f1c
+155	155	s104	Surface molecules reacting with anti-NKp44 mAb were immunoprecipitated from 125I surface labeled COS-7 cells transfected with NKp44 ORF and DAP12 cDNAs .	[]			p34	Results	FALSE	method	14690	14842	method	f1b|f1c
+156	156	s105	As shown in Fig. 1 C	[inLink]	f1c		p34	Results	FALSE	result	14843	14863	result	f1c|f2a
+157	157	s105	the surface molecules immunoprecipitated from COS-7 cell transfectants ( lane e ) displayed a molecular size similar to that of molecules isolated from activated NK cells ( lane b ) .	[]			p34	Results	FALSE	result	14864	15043	result	f1c|f2a
+158	158	s106	"Notably , cotransfection of COS-7 cells with NKp44 ORF and cDNAs encoding for other ITAM-bearing molecules , such as CD3zeta or FcepsilonRIgamma ( exLink ) , did not result in NKp44 surface expression ( not shown ) ."	[exLink]			p35	Results	FALSE	result	15044	15248	result	f1c|f2a
+159	159	s107	"Thus , we can conclude"	[]			p35	Results	FALSE	implication	15249	15270	result	f1c|f2a
+160	160	s107	that neither CD3zeta nor FcepsilonRIgamma can substitute KARAP/DAP12 to allow surface expression of NKp44 .	[]			p35	Results	FALSE	implication	15271	15377	result	f1c|f2a
+161	161	s108	"In this context , we previously showed"	[]			p35	Results	FALSE	result	15378	15415	method	f1c|f2a
+162	162	s108	"that , in activated NK cells , NKp44 molecules do not associate with CD3zeta molecules ( exLink ) ."	[exLink]			p35	Results	FALSE	result	15416	15505	result	f1c|f2a
+163	163	s109	"In Fig. 2 A , we show"	[inLink]	f2a		p35	Results	FALSE	result	15506	15526	method	f2b|f2a
+164	164	s109	that NKp44 do not associate with FcepsilonRIgamma chains either .	[]			p35	Results	FALSE	result	15527	15591	result	f2b|f2a
+165	165	s110	"On the other hand , FcepsilonRIgamma associated with NKp46 ."	[]			p35	Results	FALSE	result	15592	15650	result	f2b|f2a
+166	166	s111	"Remarkably , the use of an antiserum specific for the recently cloned DAP12 molecules formally demonstrates"	[]			p35	Results	FALSE	result	15651	15757	method	f2b|f2a
+167	167	s111	"that DAP12 is identical to the previously described NKp44-associated KARAP molecules ( exLink , exLink ) ."	[exLink]			p35	Results	FALSE	result	15758	15851	method	f2b|f2a
+168	168	s112	"As shown in Fig. 2 B , in NKp44 immunoprecipitates derived from activated NK cells treated with sodium pervanadate"	[inLink]	f2b		p35	Results	FALSE	result	15852	15965	method	f2c|f2b
+169	169	s112	the DAP12-specific antiserum recognized both nonphosphorylated and tyrosine-phosphorylated KARAP molecules .	[]			p35	Results	FALSE	result	15966	16074	result	f2c|f2b
+170	170	s113	"Moreover ,"	[]			p35	Results	FALSE	result	16075	16084	result	f2c|f2b
+171	171	s113	"as shown in Fig. 2 C , tyrosine phosphorylation of the NKp44-associated KARAP/DAP12 molecules also occurred when cross-linking of NKp44 molecules was induced by a specific mAb ."	[inLink]	f2c		p35	Results	FALSE	result	16085	16260	result	f2c|f2b
+172	172	s114	Taken together	[]			p35	Results	FALSE	implication	16261	16275	implication	f2c|f3
+173	173	s114	these data may suggest a direct involvement of KARAP/ DAP12 molecules in the signal transduction leading to the NKp44-dependent NK cell activation .	[]			p35	Results	FALSE	implication	16276	16424	goal	f2c|f3
+174	174	s115	Nucleotide sequence analysis showed	[]			p36	Results	FALSE	result	16425	16460	none	f2c|f3
+175	175	s115	"that the 1,192-bp isolated cDNA ( clone 15C ) contained a 828-bp ORF preceded by a 338-bp 5 ' untranslated region ."	[]			p36	Results	FALSE	result	16461	16572	result	f2c|f3
+176	176	s116	The ORF encoded a 276-amino acid ( aa ) type	[]			p36	Results	FALSE	result	16573	16615	method	f2c|f3
+177	177	s116	I transmembrane protein belonging to the Ig-SF .	[]			p36	Results	FALSE	result	16616	16663	fact	f2c|f3
+178	178	s117	"This protein is characterized by a 21-aa leader sequence , a 169-aa extracellular region , a 23-aa transmembrane portion , and a 63-aa cytoplasmic tail ( Fig. 3 ) ."	[inLink]	f3		p36	Results	FALSE	result	16664	16822	result	f3
+179	179	s118	Two cysteines in the extracellular region ( positions 19 and 88 of the mature protein ) determine the formation of a single Ig-related domain of the V type .	[]			p36	Results	FALSE	result	16823	16977	result	f3
+180	180	s119	"Thus , the NKp44 V domain displays the typical long spacing ( 68 aa ) between the two conserved cysteines as well as an arginine at position 59 and an aspartic acid at position 82 characteristic of Ig V domains ( exLink ) ."	[exLink]			p36	Results	FALSE	result	16978	17191	result	f3
+181	181	s120	It also displays	[]			p36	Results	FALSE	result	17192	17208	implication	f3
+182	182	s120	"an additional pair of cysteines at positions 34 and 42 , possibly involved in the formation of a second disulphide bond similar to that described in the NH2-terminal V domain of the poly Ig receptor ( exLink ) ."	[exLink]			p36	Results	FALSE	result	17209	17412	method	f3
+183	183	s121	"The membrane-proximal region of the NKp44 receptor contains a high proportion of proline ( 20 % ) , serine ( 16 % ) , and threonine ( 13 % ) ."	[]			p36	Results	FALSE	result	17413	17543	result	f3
+184	184	s122	"By analogy with other Ig-SF members , this region is predicted"	[]			p36	Results	FALSE	hypothesis	17544	17605	result	f3
+185	185	s122	to display an extended open conformation typical of hinge-like sequences ( exLink ) .	[exLink]			p36	Results	FALSE	hypothesis	17606	17684	result	f3
+186	186	s123	Computer search ( exLink ) revealed seven serine and six threonine residues in the hinge-like region as putative O-glycosylation sites and an asparagine at position 159 as a potential N-linked glycosylation site .	[exLink]			p36	Results	FALSE	hypothesis	17685	17891	result	f3
+187	187	s124	The predicted molecular mass of the NKp44 polypeptide is ~29 kD .	[]			p36	Results	FALSE	result	17892	17956	result	f3
+188	188	s125	"Thus , glycosylation of the molecule may account for the apparent molecular mass ( 44 kD ) of the glycoprotein isolated from normal NK cells ( exLink ) ."	[exLink]			p36	Results	FALSE	hypothesis	17957	18099	result	f3
+189	189	s126	The transmembrane portion contains the positively charged amino acid lysine .	[]			p36	Results	FALSE	result	18100	18176	result	f3
+190	190	s127	This may be involved in the association with the negatively charged residue aspartic acid contained in the transmembrane region of KARAP/DAP12 protein ( exLink ) .	[exLink]			p36	Results	FALSE	hypothesis	18177	18333	fact	f3
+191	191	s128	"The cytoplasmic tail of NKp44 contains the amino acid sequence ILYHTV ,"	[]			p36	Results	FALSE	result	18334	18404	result	f3
+192	192	s128	"which fits the consensus sequence for immunoreceptor tyrosine-based inhibitory motif ( ITIM ) ( i.e. , I/LxYxxL/V ) ( exLink ) ."	[exLink]			p36	Results	FALSE	result	18405	18521	result	f3
+193	193	s129	"Remarkably , this motif is typical of all the HLA class I-specific inhibitory receptors ,"	[]			p36	Results	FALSE	result	18522	18609	result	f3
+194	194	s129	"while none of the activating NK receptors identified so far ( including CD16 , p50 , and NKp46 ) display ITIM in their cytoplasmic region ( exLink , exLink ) ."	[exLink]			p36	Results	FALSE	result	18610	18752	result	f3
+195	195	s130	"On the other hand , it should be stressed"	[]			p36	Results	FALSE	result	18753	18793	result	f3
+196	196	s130	"that other surface receptors that are involved in cell activation , such as the erythropoietin receptor , the stem cell factor receptor , and the IL-3 receptor beta chain , are characterized by a cytoplasmic tail containing ITIM sequences ( 22-24 ) ."	[exLink]			p36	Results	FALSE	result	18794	19037	result	f3
+197	197	s131	The homology of NKp44 with known proteins was confined to the Ig-like V domain and limited to few members of the Ig superfamily .	[]			p36	Results	FALSE	result	19038	19166	result	f3
+198	198	s132	"In particular , a low degree of homology was observed between the Ig-like V domain of NKp44 and that of the human poly-Ig receptor ( exLink ) ( 25 % identity ) and of the human CMRF35 protein ( exLink ) ( 29 % identity ) ."	[exLink]			p36	Results	FALSE	result	19167	19369	result	f3
+199	199	s133	Cellular Distribution of NKp44 Transcripts .	[header-1]			title37	Results	FALSE	none	19370	19413	goal	f4
+200	200	s134	Northern blot analysis was performed on RNA isolated from clonal and polyclonal NK cells as well as from LCL721.221 and Jurkat cell lines .	[]			p38	Results	FALSE	method	19414	19552	hypothesis	f4
+201	201	s135	As shown in Fig. 4	[inLink]	f4		p38	Results	FALSE	result	19553	19571	none	f4
+202	202	s135	hybridization with the NKp44 ORF probe yielded two transcripts of ~3.7 and 1.2 kb .	[]			p38	Results	FALSE	result	19572	19655	result	f4
+203	203	s136	Since the cloned 1.2-kb cDNA encodes for a 44-kD protein that is specifically recognized and immunoprecipitated by anti-NKp44 mAbs	[]			p38	Results	FALSE	result	19656	19786	goal	f4
+204	204	s136	it is likely that the long 3.7-kb transcript may use a different polyadenylation site located 3 ' with respect to the 1.2-kb transcript .	[]			p38	Results	FALSE	hypothesis	19787	19923	method	f4
+205	205	s137	"Moreover , analysis of the cDNA sequence 5 ' to the ATG initiation codon showed"	[]			p38	Results	FALSE	result	19924	20001	method	f4
+206	206	s137	"that there are four in-frame stop codons , making it unlikely that the 3.7-kb transcript may encode for a longer protein ( not shown ) ."	[]			p38	Results	FALSE	implication	20002	20134	method	f4
+207	207	s138	Whereas beta-actin hybridization showed that similar amounts of RNA were loaded in each lane	[]			p38	Results	FALSE	result	20135	20227	goal	f4
+208	208	s138	the amount of NKp44 mRNA varied considerably among different NK cell clones or populations analyzed .	[]			p38	Results	FALSE	result	20228	20329	method	f4
+209	209	s139	This is consistent with previous data	[]			p38	Results	FALSE	implication	20330	20367	result	f4
+210	210	s139	indicating that the amount of NKp44 expressed at the cell surface differs among NK cell clones ( exLink ) .	[exLink]			p38	Results	FALSE	implication	20368	20467	result	f4
+211	211	s140	Further analysis of the expression of NKp44 and DAP12 mRNA in different cell populations of lymphoid origin and in hemopoietic human cell lines was performed by a semiquantitative RT-PCR technique .	[]			p39	Results	FALSE	method	20468	20665	method	f4
+212	212	s141	Table	[]			p39	Results	FALSE	result	20666	20671	method	f4
+213	213	s141	I shows that all IL-2-cultured NK cell populations and clones analyzed ( all reactive with anti-NKp44 mAbs ) expressed both NKp44 and DAP12 transcripts .	[]			p39	Results	FALSE	result	20672	20822	method	f4
+214	214	s142	"On the contrary , fresh PBL expressed DAP12 but not NKp44 transcript , in agreement with the lack of surface reactivity with anti-NKp44 mAb ."	[]			p39	Results	FALSE	result	20823	20961	method	f4
+215	215	s143	This is consistent with previous data	[]			p39	Results	FALSE	implication	20962	20999	result	f4
+216	216	s143	indicating that only activated NK cells express surface NKp44 ( exLink ) .	[exLink]			p39	Results	FALSE	implication	21000	21066	result	f4
+217	217	s144	"Likewise , all TCR-alpha/beta+ T cell clones were not stained by anti-NKp44 mAb and did not express the NKp44 transcript ."	[]			p39	Results	FALSE	result	21067	21187	result	f4
+218	218	s145	The DAP12 transcript was only expressed in one of the clones analyzed ;	[]			p39	Results	FALSE	result	21188	21258	method	f4
+219	219	s145	"notably , this clone ( R3.2 ) expressed the p50.2 activating receptor , known to associate with KARAP/ DAP12 molecules ( exLink ) ."	[exLink]			p39	Results	FALSE	result	21259	21379	method	f4
+220	220	s146	"Among TCR-gamma/delta+ T cell clones , most did not express surface NKp44 molecules ."	[]			p39	Results	FALSE	result	21380	21463	result	f4
+221	221	s147	"However , two of them expressed DAP12 transcripts ."	[]			p39	Results	FALSE	result	21464	21513	method	f4
+222	222	s148	"Two TCR-gamma/delta+ T cell clones ( 17.12 and 17.31 ) , isolated from a single donor , displayed low levels of surface NKp44 and expressed both NKp44 and DAP12 transcripts ."	[]			p39	Results	FALSE	result	21514	21683	method	f4
+223	223	s149	"In both clones , the NKp44 receptor was functional ,"	[]			p39	Results	FALSE	result	21684	21734	method	f4
+224	224	s149	as revealed by redirected killing assays in the presence of anti-NKp44 mAbs ( not shown ) .	[]			p39	Results	FALSE	result	21735	21823	method	f4
+225	225	s150	We also analyzed several human cell lines of different histotype .	[]			p39	Results	FALSE	method	21824	21889	result	f4
+226	226	s151	All these lines lacked surface expression of NKp44 and did not display NKp44 transcripts ;	[]			p39	Results	FALSE	result	21890	21979	fact	f4
+227	227	s151	"on the other hand , the DAP12 transcript was also expressed in cells of nonlymphoid origin ."	[]			p39	Results	FALSE	result	21980	22070	method	f4
+228	228	s152	"Unlike normal activated NK cells , the two NK cell lines analyzed"	[]			p39	Results	FALSE	result	22071	22135	method	f4
+229	229	s152	( NK3.3 and NKL ) displayed neither surface NKp44 molecules nor NKp44 transcripts .	[]			p39	Results	FALSE	result	22136	22216	result	f4
+230	230	s153	Conservation Across Species and Chromosomal Localization of the NKp44 Gene .	[header-1]			title40	Results	FALSE	none	22217	22292	none	f5
+231	231	s154	"Southern blot analysis of the NKp44 gene was performed on genomic DNA extracted from human , monkey , and mouse cells and digested with three different restriction enzymes ( Fig. 5 ) ."	[inLink]	f5		p41	Results	FALSE	method	22293	22472	result	f5
+232	232	s155	Hybridization performed with the NKp44 ORF probe under low stringency conditions revealed a relatively simple hybridization pattern for the NKp44 gene .	[]			p41	Results	FALSE	result	22473	22624	result	f5
+233	233	s156	"Interestingly , cross-species hybridization could be observed with both monkey and mouse genomic DNA ."	[]			p41	Results	FALSE	result	22625	22725	result	f5
+234	234	s157	These data suggest	[]			p41	Results	FALSE	implication	22726	22744	method	f5
+235	235	s157	that the NKp44 ORF probe hybridizes with a single or relatively few human genes and that the NKp44 gene may be conserved between humans and rodents .	[]			p41	Results	FALSE	implication	22745	22893	hypothesis	f5
+236	236	s158	Chromosomal localization of the NKp44-encoding gene was determined by two different approaches .	[]			p42	Results	FALSE	method	22894	22989	fact	f5
+237	237	s159	"First , we performed Southern blot analysis ,"	[]			p42	Results	FALSE	method	22990	23033	method	f5
+238	238	s159	using genomic DNA derived from a panel of polychromosomal human-hamster cell hybrids .	[]			p42	Results	FALSE	method	23034	23119	result	f5
+239	239	s160	Hybridization with the NKp44 ORF cDNA probe showed segregation of the NKp44 gene on human chromosome 6 .	[]			p42	Results	FALSE	result	23120	23223	goal	f5
+240	240	s161	The same conclusion was achieved by PCR analysis of a panel of genomic DNA extracted from monochromosomal human-hamster cell hybrids by	[]			p42	Results	FALSE	implication	23224	23359	method	f5
+241	241	s161	using NKp44 specific primers ( not shown ) .	[]			p42	Results	FALSE	implication	23360	23401	result	f5
+242	242	s162	"Taken together , these results indicate"	[]			p42	Results	FALSE	implication	23402	23440	result	f5
+243	243	s162	that the NKp44 gene is localized on human chromosome 6 .	[]			p42	Results	FALSE	implication	23441	23496	result	f5
+244	244	s163	Discussion	[header-0]			title43	Discussion	FALSE	none	23497	23507	goal	
+245	245	s164	"The present study reports the molecular cloning of NKp44 , a NK-specific triggering receptor involved in non-MHC-restricted natural cytotoxicity ( exLink ) ."	[exLink]			p44	Discussion	FALSE	result	23508	23656	method	
+246	246	s165	"Different from NKp46 ( exLink , exLink ) , which is expressed by all resting and activated NK cells"	[exLink]			p44	Discussion	FALSE	result	23657	23742	method	
+247	247	s165	NKp44 is selectively expressed by activated human NK cells .	[]			p44	Discussion	FALSE	result	23743	23803	result	
+248	248	s166	"In this context , it is well known"	[]			p44	Discussion	FALSE	fact	23804	23837	fact	
+249	249	s166	"that culture in IL-2 greatly enhances the NK-mediated anti-tumor cytotoxicity both in vitro ( exLink ) and in vivo ( exLink , exLink ) ."	[exLink]			p44	Discussion	FALSE	fact	23838	23953	result	
+250	250	s167	It is conceivable	[]			p44	Discussion	FALSE	hypothesis	23954	23971	implication	
+251	251	s167	"that the increased cytolytic activity mediated by activated NK cells may be consequent , at least in part , to the de novo expression of triggering receptors ."	[]			p44	Discussion	FALSE	hypothesis	23972	24128	result	
+252	252	s168	NKp44 may well represent one of these receptors	[]			p44	Discussion	FALSE	hypothesis	24129	24176	hypothesis	
+253	253	s168	since it is involved in triggering of activated NK cells in the process of tumor cell lysis ( exLink ) .	[exLink]			p44	Discussion	FALSE	hypothesis	24177	24273	method	
+254	254	s169	Molecular cloning revealed	[]			p45	Discussion	FALSE	result	24274	24300	none	
+255	255	s169	"that NKp44 is a type I glycoprotein belonging to the Ig-SF , which does not display any major amino acid sequence homology with known proteins ."	[]			p45	Discussion	FALSE	result	24301	24443	result	
+256	256	s170	NKp44 is characterized by an extracellular region containing an Ig-like domain of the V type .	[]			p45	Discussion	FALSE	fact	24444	24537	result	
+257	257	s171	"The transmembrane portion contains the charged amino acid lysine , possibly involved in the association with KARAP/DAP12 molecules ."	[]			p45	Discussion	FALSE	result	24538	24668	result	
+258	258	s172	"Indeed , biochemical data confirmed that NKp44 associates with KARAP/DAP12 molecules ( exLink ) ."	[exLink]			p45	Discussion	FALSE	result	24669	24757	result	
+259	259	s173	"Moreover , molecular cloning of NKp44 demonstrated"	[]			p45	Discussion	FALSE	method	24758	24807	result	
+260	260	s173	that the association with KARAP/DAP12 molecules is required for the surface expression of NKp44 .	[]			p45	Discussion	FALSE	result	24808	24904	result	
+261	261	s174	"Interestingly , the cytoplasmic tail of NKp44 contains a classical ITIM ( exLink ) ."	[exLink]			p46	Discussion	FALSE	result	24905	24981	result	
+262	262	s175	"In this context , it is of note"	[]			p46	Discussion	FALSE	result	24982	25012	method	
+263	263	s175	"that , under the experimental conditions resulting in a strong tyrosine phosphorylation of the KARAP/DAP12 molecules associated to the NKp44 receptor ( exLink ) , no tyrosine phosphorylation of the NKp44 molecule itself could be detected ."	[exLink]			p46	Discussion	FALSE	result	25013	25242	result	
+264	264	s176	"Moreover , under the same experimental conditions , no evidence has been obtained so far"	[]			p46	Discussion	FALSE	result	25243	25329	result	
+265	265	s176	"that NKp44 may associate with phosphatases such as SHP-1 , SHP-2 , or SHIP , which have been reported to associate with ITIM-bearing receptors ( exLink ) ."	[exLink]			p46	Discussion	FALSE	result	25330	25475	result	
+266	266	s177	The functional role of this ITIM is presently under investigation .	[]			p46	Discussion	FALSE	problem	25476	25542	implication	
+267	267	s178	"Remarkably , unlike"	[]			p47	Discussion	FALSE	result	25543	25561	result	
+268	268	s178	"most of the genes encoding Ig-SF receptors involved in the regulation of NK cell-mediated cytolytic activity ( including KIR [ 1 ] , KAR [ 1 ] , NKp46 [ 7 ] , and ILT/LIR [ 26 , 27 ] ) , which are on human chromosome 19 , the NKp44 gene is on chromosome 6 ."	[]			p47	Discussion	FALSE	result	25562	25802	method	
+269	269	s179	Southern blot analysis of human genomic DNA revealed a restriction enzyme digestion pattern	[]			p47	Discussion	FALSE	result	25803	25894	method	
+270	270	s179	that is compatible with the existence of a single NKp44 gene .	[]			p47	Discussion	FALSE	result	25895	25956	implication	
+271	271	s180	"Moreover , the NKp44 gene appears"	[]			p47	Discussion	FALSE	result	25957	25989	result	
+272	272	s180	to be conserved across species since the human NKp44 ORF cDNA probe cross-hybridized with genomic DNA from monkey and mouse .	[]			p47	Discussion	FALSE	result	25990	26114	result	
+273	273	s181	It will be of interest	[]			p47	Discussion	FALSE	problem	26115	26137	implication	
+274	274	s181	to analyze whether the murine counterpart of NKp44 exists and whether its expression is restricted to NK cells and to a subset of TCR-gamma/delta+ T lymphocytes as it occurs in humans .	[]			p47	Discussion	FALSE	problem	26138	26322	implication	
